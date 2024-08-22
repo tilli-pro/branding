@@ -3,7 +3,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Regular.woff2?raw=true")
+  src: url("https://rawcdn.githack.com/tilli-pro/branding/74f8ef3746eee224550523438b29b8ba308bdfc0/fonts/tenants/frontier/PPObjectSans-Regular.woff2")
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Medium.woff2?raw=true")
+  src: url("https://rawcdn.githack.com/tilli-pro/branding/74f8ef3746eee224550523438b29b8ba308bdfc0/fonts/tenants/frontier/PPObjectSans-Medium.woff2")
 }
 
 @font-face {
@@ -19,5 +19,5 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Bold.woff2?raw=true")
+  src: url("https://rawcdn.githack.com/tilli-pro/branding/74f8ef3746eee224550523438b29b8ba308bdfc0/fonts/tenants/frontier/PPObjectSans-Bold.woff2")
 }
