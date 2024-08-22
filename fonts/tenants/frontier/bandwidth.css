@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "Bandwidth";
+  font-family: bandwidth;
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/BandwidthDisplay_Rg.woff2?raw=true)
+  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/BandwidthDisplay_Rg.woff2?raw=true")
  }

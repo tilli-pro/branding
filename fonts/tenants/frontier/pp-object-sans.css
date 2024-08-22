@@ -1,23 +1,23 @@
 @font-face {
-  font-family: "PP Object Sans";
+  font-family: pp-object-sans;
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url(https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Regular.woff2?raw=true)
+  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Regular.woff2?raw=true")
 }
 
 @font-face {
-  font-family: "PP Object Sans";
+  font-family: pp-object-sans;
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url(https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Medium.woff2?raw=true)
+  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Medium.woff2?raw=true")
 }
 
 @font-face {
-  font-family: "PP Object Sans";
+  font-family: pp-object-sans;
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url(https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Bold.woff2?raw=true)
+  src: url("https://github.com/tilli-pro/branding/blob/main/fonts/tenants/frontier/PPObjectSans-Bold.woff2?raw=true")
 }
